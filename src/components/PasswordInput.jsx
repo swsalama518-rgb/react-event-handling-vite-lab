@@ -1,6 +1,6 @@
 // Code PasswordInput Component Here
 
-ffunction PasswordInput() {
+function PasswordInput() {
 
   const handleTyping = () => {
     console.log("Entering password...");
