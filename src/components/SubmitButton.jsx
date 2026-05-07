@@ -3,11 +3,11 @@
 function SubmitButton() {
 
   const handleMouseEnter = () => {
-    console.log("mouse enter");
+    console.log("Mouse Entering");
   };
 
   const handleMouseLeave = () => {
-    console.log("mouse leave");
+    console.log("Mouse Exiting");
   };
 
   return (
